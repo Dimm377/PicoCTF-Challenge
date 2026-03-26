@@ -58,4 +58,4 @@ Kumpulan catatan belajar dan writeup pengerjaan tantangan dari platform PicoCTF.
 
 - Memahami **"Why it works"**, bukan cuma cara pakai tool.
 - Membangun pola pikir peretas (*attacker mindset*).
-- Dokumentasi teknis yang rapi dan mudah dipahami sesuai prinsip Feynman.
+- Dokumentasi teknis yang rapi dan mudah dipahami.
