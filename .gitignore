@@ -1,2 +1,4 @@
+.vscode/
 SimpleCTF-Writeups-example.md
-.vscode
+.DS_Store
+*.log
